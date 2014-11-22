@@ -1,6 +1,7 @@
   <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">  
     
+    <string name="keywords_dayworking">Dayworker still working</string>
     <!-- Navigation Bar -->
     <string name="navigation_bar_screen_title">Navigation bar</string>
     <!-- Navigation Bar Height -->
